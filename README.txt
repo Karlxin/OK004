@@ -5,7 +5,15 @@ The intuition about everything
 0.This book is about to explain the whole universe in a scienart intuition
 
 1.entropy
-there is nothing but entropy
+there is nothing but entropy.
+universe is expanding with accelerating.
+nonbiology is increasing entropy.
+entropy sum up to zero.
+information is negative entropy.
+information technology is about to decreasing the entropy.
+biology is decreasing entropy.
+the machine intelligence powered by solar is the dream of humanity over years,the perpetual motion machine.
+the singularity must be near or we the biology may dissipate with the heat death.
 
 1.1.time
 1.1.1.there is no time.
