@@ -8,6 +8,7 @@ The intuition about everything
 there is nothing but entropy
 
 1.1.time
+1.1.1.there is no time.
 
 1.2.space
 
@@ -28,6 +29,11 @@ there is nothing but entropy
 1.10.quantum
 
 1.11.states
+1.11.1.there is no space,no time.
+1.11.2.all the thing is about conversion between each state.
+1.11.3.material is not moving at all,instead,there is material wave,the material change wave.
+1.11.4.the force is about to cause the wave of material.
+
 
 1.12.value
 
