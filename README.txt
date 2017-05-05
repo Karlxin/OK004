@@ -6,13 +6,24 @@ The intuition about everything
 
 1.entropy
 there is nothing but entropy.
-universe is expanding with accelerating.
-nonbiology is increasing entropy.
-entropy sum up to zero.
-information is negative entropy.
-information technology is about to decreasing the entropy.
-biology is decreasing entropy.
+energy conservation,momentum conservation,entropy conservation.thanks to einstein,we can ignore mass.
+all the positive sum with negative and get new positive or negative and end up with nothing.
+universe starts from nothing.
+the true random noises break the balance of stable followed by everything.
+there is neither time nor space.
+everything is states.
+
+thermodynamics has missed the biology,thinking that entropy is always increasing.
+but we do consider biology.
+biology tend to decrease entropy,all the things we done is about to decrease entropy.
+we the human feel comfortable with neat,we like the order,order means low entropy.
+thermodynamics tell us that there is no perpetual motion machine,but we the biology can convert the nonbiology to biology.
 the machine intelligence powered by solar is the dream of humanity over years,the perpetual motion machine.
+universe will not last it's expanding,the information singularity is near.
+
+universe is expanding with accelerating,nonbiology is increasing entropy with accelerating.
+thanks to conservation,information at earth is accelerating as well.
+we the biology on earth are the least entropy part in the universe.
 the singularity must be near or we the biology may dissipate with the heat death.
 
 1.1.time
@@ -57,3 +68,8 @@ the singularity must be near or we the biology may dissipate with the heat death
 
 1.18.ancient chinese thinker
 
+1.19.imagination,thinking,knowledge
+
+1.20.math,logic
+
+1.21.brain,neocortex
