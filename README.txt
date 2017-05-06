@@ -48,6 +48,7 @@ the singularity must be near or we the biology may dissipate with the heat death
 1.10.quantum
 
 1.11.states
+the delta human mind state equal to x,x is not constant.
 1.11.1.there is no space,no time.
 1.11.2.all the thing is about conversion between each state.
 1.11.3.material is not moving at all,instead,there is material wave,the material change wave.
